@@ -6,11 +6,8 @@
 />
 
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Apaixonado por tecnologia, programação e aprendizado contínuo  
-💡 Atualmente aprendendo: Java, JavaScript e lógica de programação  
-🔧 Utilizo Git e GitHub para versionamento e colaboração em projetos
-
+  
+💡 Perfil de testes. Por enquanto...
 ---
 
 <h3>
